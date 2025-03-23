@@ -12,6 +12,6 @@ def summarize_url(url):
     return summary
 
 
-url = "https://itcareerhub.de/"
+url = "https://itcareerhub.de/ru"
 summary = summarize_url(url)
 print(summary)
